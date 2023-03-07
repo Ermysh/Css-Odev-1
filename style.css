@@ -1,0 +1,21 @@
+.arkaplan {
+    background-color: rgb(237, 219, 199);
+    text-align: center;
+}
+.anabaslik {
+    color:rgb(167, 93, 93);
+}
+.baslik {
+    color: rgb(211, 117, 107);
+}
+#listdiv {
+    text-align:left;
+    margin-left:auto;
+    margin-right:auto;
+    width:300px;
+    height: max-content;
+    list-style-position: inside;
+}
+.kucukbaslik {
+    color:rgb(240, 153, 125);
+}
